@@ -10,7 +10,7 @@ public class A {
 =======
 			System.out.println("devC, A");
 >>>>>>> refs/heads/devC
-			
+			System.out.println("v1.0");
 	}
 
 }
