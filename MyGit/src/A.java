@@ -5,7 +5,11 @@ public class A {
 		// TODO Auto-generated method stub
 			System.out.println("A");
 			System.out.println("add A");
+<<<<<<< HEAD
 			System.out.println("devB, A");
+=======
+			System.out.println("devC, A");
+>>>>>>> refs/heads/devC
 			
 	}
 
